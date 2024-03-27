@@ -1,4 +1,4 @@
 # full-cycle-desafio-go
-Resolução do Desafio Go do módulo Docker do curso Full Cycle
+Solving of Go challenge of Docker module of Full Cycle course
 
 Imagem Go: albuquerquehugo/fullcycle
